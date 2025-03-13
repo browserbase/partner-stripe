@@ -1,6 +1,8 @@
 # 🚀 Agentic Credit Card Automation
 
-Effortlessly create virtual cards with **Stripe** and automate purchases using **Browserbase**.
+Effortlessly create virtual cards with **Stripe** and automate purchases using **Browserbase**. 
+
+Find the full documentation here: https://docs.browserbase.com/integrations/stripe/introduction
 
 ## 📌 Overview
 
